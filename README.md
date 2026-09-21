@@ -6,8 +6,8 @@ ___
 
 # Proposal 1
 
-## Problem/Question: 
-
+## Problem/Question: ???
+```
 Resident evil style vertical slice - focusing on mechanics/systems
 
 Main concepts/features:
@@ -20,13 +20,14 @@ Main concepts/features:
 
 
 ## Assumption: Nothing goes wrong.
-
+```
 
 ___
 
 # Proposal 2
 
-## Problem/Question: 
+## Problem/Question: ???
+```
 
 Soulslike style boss fight - focusing on polish
 
@@ -38,16 +39,16 @@ Main concepts/features:
 
 ## Assumption: it needs to feel polished for it to be worth doing.
 
-
+```
 ___
 
 # Proposal 3
-
+```
 ## Problem/Question: 
 
 
 
-
+```
 ___
 
 # Observations
