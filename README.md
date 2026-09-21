@@ -55,4 +55,4 @@ ___
 
 Main issue is that these proposals arent very specialised, going into many subsections like UX, Design, Programming, Tech art, etc. 
 
-I dont have a main skill nor specific interest in a specific specicialism. 
+I dont have a main skill nor specific interest in a specific specialism. 
