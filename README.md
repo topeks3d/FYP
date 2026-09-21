@@ -18,6 +18,10 @@ Main concepts/features:
 		- "boss" enemy (main antagonist similar to RE7 Joe Baker)
 	- weapon system - stats, upgrades, attachments (scope, stock)
 
+	Section 1: Player has to hide from a stalking enemy (boss)
+	Section 2: Player gets access to weapons, fights standard enemies
+	Section 3: Escape or confrontation with boss
+
 
 ## Assumption: Nothing goes wrong.
 ```
