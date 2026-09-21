@@ -60,3 +60,9 @@ ___
 Main issue is that these proposals arent very specialised, going into many subsections like UX, Design, Programming, Tech art, etc. 
 
 I dont have a main skill nor specific interest in a specific specialism. 
+
+## Specialisms?
+
+Technical Designer? - Apparently more scripting focused, but also very communication heavy. I am also not very good at taking multiple approaches at systems and end up brute forcing fixes on my first approach.
+
+Game Designer? - Im not creative, its hard for me to think of game concepts. Its easier for me to try and recreate or expand on an already finished system.
